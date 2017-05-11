@@ -1,0 +1,2 @@
+# pyTK
+使用biopython从ncbi下载核酸和氨基酸序列的图形界面
